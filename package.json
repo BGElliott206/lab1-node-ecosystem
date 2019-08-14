@@ -1,0 +1,26 @@
+{
+  "name": "lab1-node-ecosystem",
+  "version": "1.0.0",
+  "description": "lab01",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BGElliott206/lab1-node-ecosystem.git"
+  },
+  "author": "Brad Elliott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BGElliott206/lab1-node-ecosystem/issues"
+  },
+  "homepage": "https://github.com/BGElliott206/lab1-node-ecosystem#readme"
+}
